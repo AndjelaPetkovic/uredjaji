@@ -1,0 +1,7 @@
+TEL, Nokia, 200, DA
+TAB, Nokia, 25000, 40
+TEL, Samsung, 250, DA
+TAB, Lenovo, 21000, 30
+TEL, Htc, 150, NE
+TAB, Samsung, 15000, 60
+TAB, Tesla, 8500, 0
